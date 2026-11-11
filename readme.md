@@ -1,3 +1,5 @@
-# Título
+Xadrez Interativo.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut euismod convallis magna ut pulvinar. Nulla iaculis, metus in semper vestibulum, lorem quam fringilla tellus, eu varius leo dui ac neque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed faucibus ultrices ante, ut suscipit est euismod ut. Duis sit amet dictum turpis. Fusce non turpis porta nisi iaculis eleifend. Donec eget lobortis risus. Proin molestie tincidunt elit. Donec a enim ac neque tristique molestie. Sed nibh massa, dignissim at ipsum non, volutpat aliquam erat. Sed tincidunt quis urna a semper. Phasellus leo orci, imperdiet et ullamcorper non, finibus eu nunc. Duis vel ligula ac orci tincidunt aliquam. Suspendisse potenti. Sed congue lectus at aliquet cursus. 
+Trabalho feito usando p5.js.
+Basicamente, criei um tabuleiro que reage ao microfone e faz umas ondas estilo matriz e água no meio do ecrã.
+Tive de pedir bastante ajuda à inteligência artificial para me ajudar nalgumas partes, principalmente em erros que foram aparecendo. No entanto ideia foi pensada por mim e o código inicial fui eu que fiz.
